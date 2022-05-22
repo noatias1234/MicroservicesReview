@@ -18,3 +18,28 @@ git clone <remote_url>
 
 git pull
 	pull the changes in a breanch on a git to local machine
+
+WebApi
+	HTTP - rest, CRUD
+	HTTP - QL
+
+HTTP - rest, CRUD
+	Create, POST
+	Read, GET
+	Update, PUT
+	Delete, DELETE
+
+curl POST http/s:127.0.0.1/Weatherforecast
+HEADER: HEADE VALUE
+{
+	body
+}
+
+Docker: 
+	https://www.youtube.com/watch?v=3c-iBn73dDE
+
+WebApi(.net 6) & Web UI(Angular) sample:
+	https://www.youtube.com/watch?v=eCbaZixsP-s
+
+
+
