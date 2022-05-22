@@ -1,4 +1,8 @@
+git init
+	cli command to init new git
 
+git status
+	cli command to see all uncommited and unstaged changes
 
 git branch --show
 	show local current branch
