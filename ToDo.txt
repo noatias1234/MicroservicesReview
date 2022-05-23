@@ -1,0 +1,22 @@
+Students manager system:
+	Create WebApi:
+		.net 6 framework
+		http resp api
+	implemented http rest crud operations
+	in memory db, in cotroller, as list of objects, for simplecity.
+	source control
+		init after project creation
+		commit every crud operation after imlemetation
+	for reference see :
+		https://github.com/BakPeter/WebApiSample
+		.net documentation
+
+Dot net(.net) frameworks comperhansive review:
+	.net framework
+	.net standart
+	.net core(6)
+
+Dot net WebApi:
+	very comperhansiver review of Program.cs file
+
+HttpRequests status code

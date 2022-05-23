@@ -29,10 +29,14 @@ HTTP - rest, CRUD
 	Update, PUT
 	Delete, DELETE
 
-curl POST http/s:127.0.0.1/Weatherforecast
-HEADER: HEADE VALUE
+curl -X POST http/s:127.0.0.1/Weatherforecast
+HEADER_1: HEADER_1 VALUE
+HEADER_2: HEADER_2 VALUE
+HEADER_3: HEADER_3 VALUE
+...
+HEADER_N: HEADER_N VALUE
 {
-	body
+	body, could by json, html, xml...
 }
 
 Docker: 
@@ -40,6 +44,11 @@ Docker:
 
 WebApi(.net 6) & Web UI(Angular) sample:
 	https://www.youtube.com/watch?v=eCbaZixsP-s
+
+WebApi
+	MVC, model-view-controler
+	.net
+
 
 
 
