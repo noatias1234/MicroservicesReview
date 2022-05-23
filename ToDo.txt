@@ -5,6 +5,7 @@ Students manager system:
 	implemented http rest crud operations
 	in memory db, in cotroller, as list of objects, for simplecity.
 	source control
+		use visual studio 2022 gui only!
 		init after project creation
 		commit every crud operation after imlemetation
 	for reference see :
